@@ -2,7 +2,7 @@ import { Project, BlogPost } from './types';
 
 export const DINITH_INFO = {
   name: "Dinith Tharindu",
-  role: "Software Engineer",
+  role: "Web3 Systems Engineer",
   subRole: "Specializing in Distributed Systems & AI",
   education: [
     {
